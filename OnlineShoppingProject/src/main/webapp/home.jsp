@@ -14,9 +14,13 @@ h3 {
 </style>
 </head>
 <body>
-	<div style="color: white; text-align: center; font-size: 30px;">
+	<!--  <div style="color: white; text-align: center; font-size: 30px;">
 		Home <i class="fa fa-institution"></i>
+	</div>-->
+	<div style="color: yellow; text-align: center; font-size: 30px;">
+		<h3>Buy ! Your Choice... </h3>
 	</div>
+	<br>
 	<%
 	String msg = request.getParameter("msg");
 	if ("added".equals(msg)) {
