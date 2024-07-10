@@ -8,7 +8,7 @@
 <body>
 	<br>
 	<h2 style="color: yellow">
-		<center>Signed Up Successfully... Please login to use</center>
+		<center>Welcome... Please login to use</center>
 	</h2>
 	<div id='container'>
 		<div class='signup'>
