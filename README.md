@@ -59,7 +59,9 @@ Overview After Proceed To Payment
 Overview of Total Bill
 
 
-![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/1556df62-3ce7-40a9-8a24-e9770303d1ff)
+
+![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/890163b7-5e99-4098-89e7-9defa943a6a6)
+
 
 
 
@@ -67,6 +69,6 @@ Final Recept Generated
 
 
 
-![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/2b1df82c-8cea-4c91-b47f-6fd17bb91860)
 
+![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/00109cb8-bfc9-4c83-b32b-538f5cf04741)
 
