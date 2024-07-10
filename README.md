@@ -47,7 +47,8 @@ After User LogIn
 Cart Overview After Adding Items
 
 
-![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/f84e6604-1275-4f17-bab0-346d4f48da1c)
+![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/eb17aba4-2ef5-4f01-89fe-5c5aabe9079f)
+
 
 
 Overview After Proceed To Payment
