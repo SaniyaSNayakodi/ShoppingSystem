@@ -6,6 +6,10 @@
 <title>Login</title>
 </head>
 <body>
+	<br>
+	<h2 style="color: yellow">
+		<center>Signed Up Successfully... Please login to use</center>
+	</h2>
 	<div id='container'>
 		<div class='signup'>
 			<form action="loginAction.jsp" method="post">
@@ -14,15 +18,13 @@
 					required> <input type="submit" value="login"
 					placeholder="Enter Email" required>
 			</form>
-			<h3>
+			<h2>
 				<a href="signup.jsp">SignUp</a>
-			</h3>
-			<h3>
-				<a href="forgotPassword.jsp">Forgot Password?</a>
-			</h3>
-			<h3>
-				<a href="welcome.jsp">Back</a>
-			</h3>
+			</h2>
+			<h2>
+				<a href="forgotPassword.jsp">Forgot Password?</a> <a
+					href="welcome.jsp">Back</a>
+			</h2>
 
 		</div>
 		<div class='whysignLogin'>
