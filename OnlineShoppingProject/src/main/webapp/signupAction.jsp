@@ -25,7 +25,7 @@ try {
 	ps.setString(9, state);
 	ps.setString(10, country);
 	ps.executeUpdate();
-	response.sendRedirect("welcome.jsp?msg=valid");
+	response.sendRedirect("login.jsp?msg=valid");
 
 } catch (Exception e) {
 	System.out.println(e);
