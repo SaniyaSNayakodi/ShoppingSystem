@@ -74,3 +74,22 @@ Final Recept Generated
 
 ![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/00109cb8-bfc9-4c83-b32b-538f5cf04741)
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+Database: MySQL
+Tables created: 4
+            1) cart
+            2) message
+            3) product
+            4) users
+
+
+![image](https://github.com/SaniyaSNayakodi/ShoppingSystem/assets/91565882/10ec1e3b-524d-4cfb-8bd5-448039cb769a)
+
+            
+              
