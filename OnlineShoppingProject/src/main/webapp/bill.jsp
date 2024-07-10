@@ -22,7 +22,8 @@
 		"select * from users inner join cart where cart.email='" + email + "' and cart.status='bill'");
 		while (rs2.next()) {
 	%>
-	<h3>Online shopping Bill (YourCart)</h3>
+	<br>
+	<h1 style="color:yellow; font-size:40px"><center>Total shopping Bill (YourCart)</center></h1>
 	<hr>
 	<div class="left-div">
 		<h3>
