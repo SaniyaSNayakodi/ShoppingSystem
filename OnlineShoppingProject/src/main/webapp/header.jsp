@@ -23,6 +23,7 @@
 			%> <i class='fas fa-user-alt'></i>
 		</a>
 	</h2>
+	<div>
 	<a href="home.jsp">Home<i class="fa fa-institution"></i></a> <a
 		href="myCart.jsp">My Cart<i class='fas fa-cart-arrow-down'></i></a> <a
 		href="myOrders.jsp">My Orders <i class='fab fa-elementor'></i></a> <a
@@ -30,6 +31,8 @@
 	<a href="messageUs.jsp">Message Us <i class='fas fa-comment-alt'></i></a>
 	<a href="about.jsp">About <i class="fa fa-address-book"></i></a> <a
 		href="logout.jsp">Logout <i class='fas fa-share-square'></i></a>
+		</div>
+		<br>
 	<div class="search-container">
 		<form action="searchHome.jsp" method="post">
 			<input type="text" placeholder="Search" name="search">
@@ -37,6 +40,8 @@
 				<i class="fa fa-search"></i>
 			</button>
 		</form>
+		<br>
+		<br>
 	</div>
 </div>
 <br>
