@@ -20,8 +20,9 @@ LogIn Page
 
 
 > There are 2 Interfaces:
-  1) User LogIn
-  2) Admin LogIn
+  1) Admin LogIn
+  2) User LogIn
+
 
 
 ----------------------------------------------------------------------------------------------------------------
